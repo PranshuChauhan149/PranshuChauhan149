@@ -31,17 +31,17 @@
 </p>
 
 ---
-
 ## 🚀 Featured Projects  
 
 <table align="center">
 <tr>
 <td width="50%">
-<h3 align="center">🩺 Doctor Appointment System</h3>
+<h3 align="center">🛒 GreenCart</h3>
 <p align="center">
-A full-stack MERN app with **dynamic slot booking**, **Stripe payments**, and **doctor dashboards**.
+GreenCart is a full-stack grocery shopping website built using the <b>MERN stack</b> (MongoDB, Express.js, React, Node.js).  
+It offers users a smooth and modern interface to browse, search, and purchase groceries online, with features like cart management, authentication, and order tracking.
 <br/>
-<a href="https://github.com/pranshuchauhan/doctor-appointment" target="_blank">
+<a href="https://github.com/pranshuchauhan/GreenCart" target="_blank">
 <img src="https://img.shields.io/badge/Repo-Visit-blue?style=for-the-badge&logo=github" />
 </a>
 </p>
@@ -49,7 +49,7 @@ A full-stack MERN app with **dynamic slot booking**, **Stripe payments**, and **
 <td width="50%">
 <h3 align="center">🏋️ Gym Management System</h3>
 <p align="center">
-Manage **members, trainers, and plans** using Cloudinary for image storage and JWT auth.
+Manage <b>members, trainers, and plans</b> using Cloudinary for image storage and JWT-based authentication.
 <br/>
 <a href="https://github.com/pranshuchauhan/gym-management" target="_blank">
 <img src="https://img.shields.io/badge/Repo-Visit-blue?style=for-the-badge&logo=github" />
@@ -61,7 +61,7 @@ Manage **members, trainers, and plans** using Cloudinary for image storage and J
 <td width="50%">
 <h3 align="center">🎮 PUBG-Style Game (C++)</h3>
 <p align="center">
-C++ powered combat simulation with **player stats**, **weapon logic**, and **OOP mechanics**.
+C++ powered combat simulation with <b>player stats</b>, <b>weapon logic</b>, and <b>object-oriented mechanics</b>.
 <br/>
 <a href="https://github.com/pranshuchauhan/pubg-style-game" target="_blank">
 <img src="https://img.shields.io/badge/Repo-Visit-blue?style=for-the-badge&logo=github" />
@@ -71,7 +71,7 @@ C++ powered combat simulation with **player stats**, **weapon logic**, and **OOP
 <td width="50%">
 <h3 align="center">💬 Chat Application</h3>
 <p align="center">
-Real-time MERN chat app with **Socket.io**, **JWT Auth**, and **Redux Toolkit**.
+Real-time MERN chat app with <b>Socket.io</b>, <b>JWT Authentication</b>, and <b>Redux Toolkit</b>.
 <br/>
 <a href="https://github.com/pranshuchauhan" target="_blank">
 <img src="https://img.shields.io/badge/Repo-Visit-blue?style=for-the-badge&logo=github" />
