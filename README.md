@@ -36,12 +36,11 @@
 <table align="center">
 <tr>
 <td width="50%">
-<h3 align="center">🛒 GreenCart</h3>
+<h3 align="center">🩺 Doctor Appointment System</h3>
 <p align="center">
-GreenCart is a full-stack grocery shopping website built using the <b>MERN stack</b> (MongoDB, Express.js, React, Node.js).  
-It offers users a smooth and modern interface to browse, search, and purchase groceries online, with features like cart management, authentication, and order tracking.
+A full-stack MERN app with <b>dynamic slot booking</b>, <b>Stripe payments</b>, and <b>doctor dashboards</b>.
 <br/>
-<a href="https://github.com/pranshuchauhan/GreenCart" target="_blank">
+<a href="https://github.com/pranshuchauhan/doctor-appointment" target="_blank">
 <img src="https://img.shields.io/badge/Repo-Visit-blue?style=for-the-badge&logo=github" />
 </a>
 </p>
@@ -59,11 +58,12 @@ Manage <b>members, trainers, and plans</b> using Cloudinary for image storage an
 </tr>
 <tr>
 <td width="50%">
-<h3 align="center">🎮 PUBG-Style Game (C++)</h3>
+<h3 align="center">🛒 GreenCart</h3>
 <p align="center">
-C++ powered combat simulation with <b>player stats</b>, <b>weapon logic</b>, and <b>object-oriented mechanics</b>.
+GreenCart is a full-stack grocery shopping website built using the <b>MERN stack</b> (MongoDB, Express.js, React, Node.js).  
+It offers users a smooth and modern interface to browse, search, and purchase groceries online, with features like cart management, authentication, and order tracking.
 <br/>
-<a href="https://github.com/pranshuchauhan/pubg-style-game" target="_blank">
+<a href="https://github.com/pranshuchauhan/GreenCart" target="_blank">
 <img src="https://img.shields.io/badge/Repo-Visit-blue?style=for-the-badge&logo=github" />
 </a>
 </p>
