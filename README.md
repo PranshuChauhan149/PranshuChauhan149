@@ -16,21 +16,23 @@
 
 ## 🧠 About Me  
 
-👨‍💻 **B.Tech Student | MERN Stack Engineer | Passionate Innovator**  
-🌍 Building **scalable web apps** and experimenting with **real-time systems (Socket.io, WebRTC)**  
-🧩 Focused on **problem-solving, system design, and clean code principles**  
-☁️ Exploring **DevOps tools (Docker, Cloudinary, Render, AWS)**  
+👨‍💻 **B.Tech Student | Full Stack (MERN) Engineer | Passionate Innovator**  
+🌍 Building **scalable web apps** and experimenting with **real-time systems** using *Socket.io* and *WebRTC*  
+🧩 Focused on **problem-solving**, **system design**, and **clean code principles**  
+☁️ Exploring **DevOps tools** – Docker, Cloudinary, Render, AWS  
 💡 Believer in *“Learn → Build → Share → Repeat”*  
+🔥 Consistently improving skills through **DSA**, **project building**, and **open-source** contributions  
 
 ---
 
-## ⚡ Tech Stack
+## ⚡ Tech Stack  
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,react,redux,nodejs,express,mongodb,nextjs,typescript,cpp,java,python,mysql,git,github,linux,docker,postman,figma,vscode" />
 </p>
 
 ---
+
 ## 🚀 Featured Projects  
 
 <table align="center">
@@ -39,42 +41,45 @@
 <h3 align="center">🩺 Doctor Appointment System</h3>
 <p align="center">
 A full-stack MERN app with <b>dynamic slot booking</b>, <b>Stripe payments</b>, and <b>doctor dashboards</b>.
-<br/>
+<br/><br/>
 <a href="https://github.com/pranshuchauhan/doctor-appointment" target="_blank">
-<img src="https://img.shields.io/badge/Repo-Visit-blue?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/Visit%20Repo-blue?style=for-the-badge&logo=github" />
 </a>
 </p>
 </td>
+
 <td width="50%">
 <h3 align="center">🏋️ Gym Management System</h3>
 <p align="center">
-Manage <b>members, trainers, and plans</b> using Cloudinary for image storage and JWT-based authentication.
-<br/>
+Manage <b>members, trainers, and plans</b> with Cloudinary-based image storage & JWT authentication.
+<br/><br/>
 <a href="https://github.com/pranshuchauhan/gym-management" target="_blank">
-<img src="https://img.shields.io/badge/Repo-Visit-blue?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/Visit%20Repo-blue?style=for-the-badge&logo=github" />
 </a>
 </p>
 </td>
 </tr>
+
 <tr>
 <td width="50%">
 <h3 align="center">🛒 GreenCart</h3>
 <p align="center">
-GreenCart is a full-stack grocery shopping website built using the <b>MERN stack</b> (MongoDB, Express.js, React, Node.js).  
-It offers users a smooth and modern interface to browse, search, and purchase groceries online, with features like cart management, authentication, and order tracking.
-<br/>
+A full-stack grocery shopping website built using the <b>MERN stack</b>.  
+Features include product search, cart management, authentication, and order tracking.
+<br/><br/>
 <a href="https://github.com/pranshuchauhan/GreenCart" target="_blank">
-<img src="https://img.shields.io/badge/Repo-Visit-blue?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/Visit%20Repo-blue?style=for-the-badge&logo=github" />
 </a>
 </p>
 </td>
+
 <td width="50%">
-<h3 align="center">💬 Chat Application</h3>
+<h3 align="center">💬 Real-Time Chat App</h3>
 <p align="center">
-Real-time MERN chat app with <b>Socket.io</b>, <b>JWT Authentication</b>, and <b>Redux Toolkit</b>.
-<br/>
+A modern chat app built with <b>Socket.io</b>, <b>JWT Authentication</b>, and <b>Redux Toolkit</b>.
+<br/><br/>
 <a href="https://github.com/pranshuchauhan" target="_blank">
-<img src="https://img.shields.io/badge/Repo-Visit-blue?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/Visit%20Repo-blue?style=for-the-badge&logo=github" />
 </a>
 </p>
 </td>
@@ -125,12 +130,13 @@ Real-time MERN chat app with <b>Socket.io</b>, <b>JWT Authentication</b>, and <b
 ---
 
 ## ❤️ Support My Work  
+
 <p align="center">
   <a href="https://github.com/pranshuchauhan">
     <img src="https://img.shields.io/github/followers/pranshuchauhan?label=Follow&style=social" />
   </a>
   <br/><br/>
-  ⭐ If you like my projects, don’t forget to **star** them — it motivates me to build more!
+  ⭐ If you like my projects, don’t forget to **star** them — it really motivates me to build more!
 </p>
 
 ---
