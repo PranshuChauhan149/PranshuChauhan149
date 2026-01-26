@@ -1,50 +1,33 @@
-<!-- ================= HERO ================= -->
+<!-- ================= HEADER ================= -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=38&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Pranshu+Chauhan;Full+Stack+MERN+Developer;Building+Scalable+Web+Applications;Learning.+Building.+Improving." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=36&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=750&lines=Hey+👋,+I'm+Pranshu+Chauhan;Full+Stack+Engineer+%7C+MERN+Developer;Problem+Solver+%7C+Lifelong+Learner;Turning+Ideas+Into+Scalable+Products" />
 </h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,100:0077ff&height=4"/>
+  <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="30"/>
 </p>
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1518779578993-ec3579fee39f?q=80&w=1200&auto=format&fit=crop" width="85%"/>
+  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="480"/>
 </p>
 
 ---
 
 ## 👨‍💻 About Me  
 
-🎓 **B.Tech Student | Full Stack (MERN) Developer**  
-💡 I love building **real-world, scalable web applications**  
-⚡ Experienced with **real-time systems (Socket.io)**  
-🧠 Strong in **DSA, clean code & problem-solving**  
+🎓 **B.Tech Student | Full Stack (MERN) Engineer**  
+💻 Passionate about building **scalable, real-world web applications**  
+⚡ Experienced with **real-time systems** using Socket.io  
+🧠 Strong focus on **DSA, clean architecture & problem-solving**  
 ☁️ Exploring **Docker, Cloudinary, Render & AWS**  
-🚀 Motto: **Learn → Build → Ship → Improve**
+🚀 Always following: **Learn → Build → Improve → Repeat**
 
 ---
 
-## 🐍 Contribution Snake (Live Activity)
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/PranshuChauhan149/PranshuChauhan149/output/github-contribution-grid-snake-dark.svg">
-    <img alt="Snake eating my GitHub contributions"
-      src="https://raw.githubusercontent.com/PranshuChauhan149/PranshuChauhan149/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
-
----
-
-## 🛠️ Tech Stack (What I Know)
+## 🛠️ Tech Stack  
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,react,redux,nodejs,express,mongodb,nextjs,typescript,cpp,java,python,mysql,git,github,linux,docker,postman,figma,vscode" />
-</p>
-
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1517433456452-f9633a875f6f?q=80&w=1200&auto=format&fit=crop" width="85%"/>
 </p>
 
 ---
@@ -56,21 +39,23 @@
 <td width="50%">
 
 ### 🩺 Doctor Appointment System  
-✔ Dynamic slot booking  
-✔ Stripe payments  
-✔ Doctor & Admin dashboards  
-
+Dynamic slot booking, Stripe payments, doctor & admin dashboards  
 **Tech:** React, Node.js, MongoDB, Stripe  
+
+<a href="https://github.com/PranshuChauhan149">
+<img src="https://img.shields.io/badge/View%20Repository-blue?style=for-the-badge&logo=github"/>
+</a>
 
 </td>
 <td width="50%">
 
 ### 🏋️ Gym Management System  
-✔ Member & trainer management  
-✔ JWT authentication  
-✔ Cloudinary image uploads  
-
+Member & trainer management with JWT auth and Cloudinary  
 **Tech:** MERN Stack  
+
+<a href="https://github.com/PranshuChauhan149">
+<img src="https://img.shields.io/badge/View%20Repository-blue?style=for-the-badge&logo=github"/>
+</a>
 
 </td>
 </tr>
@@ -79,20 +64,23 @@
 <td width="50%">
 
 ### 🛒 GreenCart  
-✔ Full-stack grocery platform  
-✔ Cart & order management  
-
+Full-stack grocery shopping platform with cart & orders  
 **Tech:** MERN Stack  
+
+<a href="https://github.com/PranshuChauhan149">
+<img src="https://img.shields.io/badge/View%20Repository-blue?style=for-the-badge&logo=github"/>
+</a>
 
 </td>
 <td width="50%">
 
 ### 💬 Real-Time Chat App  
-✔ Live messaging  
-✔ JWT auth  
-✔ Socket.io  
-
+Live messaging using Socket.io & JWT authentication  
 **Tech:** React, Node.js, Socket.io  
+
+<a href="https://github.com/PranshuChauhan149">
+<img src="https://img.shields.io/badge/View%20Repository-blue?style=for-the-badge&logo=github"/>
+</a>
 
 </td>
 </tr>
@@ -100,31 +88,48 @@
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Statistics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PranshuChauhan149&show_icons=true&theme=radical&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=PranshuChauhan149&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=PranshuChauhan149&theme=radical&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranshuChauhan149&layout=compact&theme=radical&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranshuChauhan149&layout=compact&theme=radical&hide_border=true" height="170"/>
 </p>
 
 ---
 
-## 🏆 Achievements  
+## 🔥 Contribution Activity  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PranshuChauhan149&bg_color=0d1117&color=00ffff&line=00eaff&point=ffffff&area=true&hide_border=true" width="95%"/>
+</p>
+
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="22"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake  
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/PranshuChauhan149/PranshuChauhan149/output/github-contribution-grid-snake-dark.svg">
+    <img alt="Snake eating my contributions"
+      src="https://raw.githubusercontent.com/PranshuChauhan149/PranshuChauhan149/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+---
+
+## 🏆 GitHub Achievements  
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=PranshuChauhan149&theme=radical&no-frame=true&row=1&column=6"/>
-</p>
-
----
-
-## 💻 Coding in Action  
-
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400"/>
 </p>
 
 ---
@@ -151,13 +156,15 @@
 ## ✨ Motivation  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00E7FF&center=true&vCenter=true&width=700&lines=Consistency+beats+talent.;Build+things+that+matter.;Dream+big.+Execute+bigger."/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00E7FF&center=true&vCenter=true&width=700&lines=Code+is+like+humor.+If+you+have+to+explain+it,+it's+bad.;Dream+big,+build+bold,+stay+curious."/>
 </p>
 
 ---
 
+## ❤️ Support  
+
 <p align="center">
-  ⭐ If you like my work, consider starring my repositories  
+  ⭐ Star my repositories if you like my work  
   <br/>
   <img src="https://img.shields.io/github/followers/PranshuChauhan149?label=Follow&style=social"/>
 </p>
@@ -166,4 +173,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00E7FF&height=120&section=footer"/>
 </p>
-
