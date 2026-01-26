@@ -107,6 +107,23 @@ Live messaging using Socket.io & JWT authentication
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PranshuChauhan149&bg_color=0d1117&color=00ffff&line=00eaff&point=ffffff&area=true&hide_border=true" width="95%"/>
 </p>
 
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="22"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake  
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/PranshuChauhan149/PranshuChauhan149/output/github-contribution-grid-snake-dark.svg">
+    <img alt="Snake eating my contributions"
+      src="https://raw.githubusercontent.com/PranshuChauhan149/PranshuChauhan149/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
 ---
 
 ## 🏆 GitHub Achievements  
