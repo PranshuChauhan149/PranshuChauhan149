@@ -126,10 +126,11 @@ Live messaging using Socket.io & JWT authentication
 
 ---
 
-## 🏆 GitHub Achievements  
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PranshuChauhan149&theme=radical&no-frame=true&row=1&column=6"/>
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=PranshuChauhan149&theme=radical&no-frame=true"
+    alt="GitHub Trophies"
+  />
 </p>
 
 ---
