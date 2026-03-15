@@ -1,145 +1,113 @@
-<!-- ================= HEADER ================= -->
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Pranshu%20Chauhan&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
+</p>
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=34&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=750&lines=Hey+👋,+I'm+Pranshu+Chauhan;Full+Stack+Engineer+(MERN);AI+Enthusiast+%7C+Problem+Solver;Building+Scalable+Web+Products" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Building+Scalable+Web+Apps;Real-Time+System+Developer;AI+Enthusiast" />
 </h1>
 
 <p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="25"/>
+Full Stack MERN Developer passionate about building scalable web applications, real-time platforms and modern web solutions.
+</p>
+
+* 🎓 B.Tech Computer Science Student
+* 💻 Full Stack Developer focused on **MERN Stack**
+* ⚡ Experience building **real-time applications with Socket.io**
+* 🧠 Strong interest in **Data Structures & Problem Solving**
+* 🌱 Currently exploring **Docker, Cloud & System Design**
+* 💬 Ask me about **Web Development, MERN, DSA, APIs**
+* 📫 Reach me: **[pranshuchauhan149@gmail.com](mailto:pranshuchauhan149@gmail.com)**
+
+<br>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="420"/>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
 
-# 👨‍💻 About Me
+<h3 align="left">Connect with me:</h3>
 
-🎓 **B.Tech CSE Student**  
-💻 **Full Stack MERN Developer** focused on building scalable products  
-⚡ Experience with **real-time apps using Socket.io**  
-🧠 Strong interest in **Data Structures & System Design**  
-☁️ Exploring **Docker • AWS • Cloud Deployments**  
-🚀 Building **AI powered web applications**
+<p align="left">
 
----
+<a href="https://www.linkedin.com/in/pranshu-chauhan-102542298/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
 
-# 🛠 Tech Stack
+<a href="mailto:pranshuchauhan149@gmail.com" target="blank">
+<img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="30" width="30" />
+</a>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,react,redux,nodejs,express,mongodb,nextjs,typescript,cpp,java,python,mysql,git,github,linux,docker,postman,figma,vscode"/>
+<a href="https://leetcode.com/u/Pranshu_chauhan/" target="blank">
+<img align="center" src="https://cdn-icons-png.flaticon.com/512/5972/5972528.png" height="30" width="30" />
+</a>
+
 </p>
 
 ---
 
-# 🚀 Featured Projects
+<h2 align="center">💻 Tech Stack</h2>
 
-<table>
-<tr>
+<p align="center">
 
-<td width="50%">
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 
-### 🩺 Doctor Appointment System
-Dynamic doctor slot booking platform with secure payments.
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
-**Features**
-• Real-time slot generation  
-• Stripe payment integration  
-• Admin & doctor dashboards  
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=yellow"/>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 
-**Tech Stack**
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Redux-593d88?style=for-the-badge&logo=redux&logoColor=white"/>
 
-React • Node.js • MongoDB • Stripe
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-404d59?style=for-the-badge"/>
 
-<a href="YOUR_REPO_LINK">
-<img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github"/>
-</a>
+<img src="https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
-</td>
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 
-<td width="50%">
+<img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io"/>
 
-### 🏋️ Gym Management System
-Full-stack platform to manage gym members and trainers.
+<img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white"/>
 
-**Features**
-• JWT authentication  
-• Member management  
-• Image upload via Cloudinary  
+<img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
 
-**Tech Stack**
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 
-MERN Stack • Cloudinary
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 
-<a href="YOUR_REPO_LINK">
-<img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### 🛒 GreenCart
-Online grocery platform with cart and order system.
-
-**Features**
-• Product browsing  
-• Cart system  
-• Order tracking  
-
-**Tech Stack**
-
-React • Node.js • MongoDB
-
-<a href="YOUR_REPO_LINK">
-<img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</td>
-
-<td width="50%">
-
-### 💬 Real Time Chat Application
-Live messaging system using WebSockets.
-
-**Features**
-• Instant messaging  
-• Online user status  
-• JWT authentication  
-
-**Tech Stack**
-
-React • Node.js • Socket.io
-
-<a href="YOUR_REPO_LINK">
-<img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</td>
-
-</tr>
-</table>
+</p>
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=PranshuChauhan149&show_icons=true&theme=radical&hide_border=true" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=PranshuChauhan149&theme=radical&hide_border=true" height="170"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=PranshuChauhan149&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=PranshuChauhan149&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranshuChauhan149&layout=compact&theme=radical&hide_border=true" height="170"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranshuChauhan149&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-# 🔥 Contribution Graph
+## 📈 Contribution Activity
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=PranshuChauhan149&bg_color=0d1117&color=00ffff&line=00eaff&point=ffffff&area=true&hide_border=true"/>
@@ -147,46 +115,8 @@ React • Node.js • Socket.io
 
 ---
 
-# 🐍 Contribution Snake
+## 👾 Fun Fact
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/PranshuChauhan149/PranshuChauhan149/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/pranshu-chauhan-102542298/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:pranshuchauhan149@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://leetcode.com/u/Pranshu_chauhan/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
-</a>
-
-<a href="https://www.hackerrank.com/profile/pranshuchauhan12">
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank"/>
-</a>
-
-</p>
-
----
-
-# ✨ Motto
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=00E7FF&center=true&vCenter=true&width=700&lines=Build.+Break.+Learn.+Repeat.;Code+with+passion,+ship+with+confidence."/>
-</p>
-
----
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00E7FF&height=120&section=footer"/>
-</p>
+```js
+console.log("Code. Build. Improve. Repeat.");
+```
